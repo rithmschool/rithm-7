@@ -4,41 +4,41 @@
 
 ## Tuesday
 
-#### Topics
+### Topics
 
 * Intro to Rithm School
 
 * Computer Science Basics (Algorithm Time and Space Complexity)
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
 * [Intro to Big O Notation](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/introduction-to-big-o-notation)
 
-#### Assignment
+### Assignment
 
 * [Big O Assignment](https://github.com/rithmschool/big-o-assignment)
 
 ## Wednesday
 
-#### Topics
+### Topics
 
 * Problem Solving in Computer Science
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
 * [Intro to Recursion](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/introduction-to-recursion)
 
-#### Homework
+### Homework
 
 ## Thursday
 
-#### Topics
+### Topics
 
 * Intermediate CSS
 
 * [Bootstrap](https://getbootstrap.com/)
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
 CSS
 
@@ -58,14 +58,14 @@ Bootstrap
 
 * [Learn Bootstrap 4 in 30 minutes by building a landing page website](https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33)
 
-#### Homework
+### Homework
 
 * [CSS and Bootstrap Assignment](https://github.com/rithmschool/css-and-bootstrap-assignment)
 
 ## Friday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment

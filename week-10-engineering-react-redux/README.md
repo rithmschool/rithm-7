@@ -4,40 +4,40 @@ Build advanced web applications using React, Redux, and React-Router.
 
 ## Monday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Tuesday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Wednesday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Thursday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Friday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment

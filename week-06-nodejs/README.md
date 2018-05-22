@@ -4,34 +4,34 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 
 ## Monday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Tuesday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## ~~Wednesday Fourth of July Holiday~~
 
 ## Thursday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Friday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment

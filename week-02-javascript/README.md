@@ -4,40 +4,40 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 
 ## Monday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Tuesday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Wednesday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Thursday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Friday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment

@@ -4,40 +4,40 @@ Learn how to build more sophisticated backend APIs in JavaScript.
 
 ## Monday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Tuesday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Wednesday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Thursday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
 
 ## Friday
 
-#### Topics
+### Topics
 
-#### Curriculum & Resources
+### Curriculum & Resources
 
-#### Assignment
+### Assignment
