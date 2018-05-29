@@ -12,25 +12,13 @@
 
 ### Curriculum & Resources
 
-* [Intro to Big O Notation](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/introduction-to-big-o-notation)
+* [Rithm School Curriculum - Intro to Big O Notation](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/introduction-to-big-o-notation)
 
 ### Assignment
 
 * [Big O Assignment](https://github.com/rithmschool/big-o-assignment)
 
 ## Wednesday
-
-### Topics
-
-* Problem Solving in Computer Science
-
-### Curriculum & Resources
-
-* [Intro to Recursion](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/introduction-to-recursion)
-
-### Homework
-
-## Thursday
 
 ### Topics
 
@@ -42,9 +30,9 @@
 
 CSS
 
-* [HTML and CSS Basics](https://www.rithmschool.com/courses/html-css-fundamentals)
+* [Rithm School Curriculum - HTML and CSS Basics](https://www.rithmschool.com/courses/html-css-fundamentals)
 
-* [Intermediate CSS](https://www.rithmschool.com/courses/intermediate-css-bootstrap)
+* [Rithm School Curriculum - Intermediate CSS](https://www.rithmschool.com/courses/intermediate-css-bootstrap)
 
 Flexbox
 
@@ -61,6 +49,27 @@ Bootstrap
 ### Homework
 
 * [CSS and Bootstrap Assignment](https://github.com/rithmschool/css-and-bootstrap-assignment)
+
+## Thursday
+
+### Topics
+
+* ES2015 - Major Additions to JavaScript and New Syntaxes
+* jQuery Introduction
+
+### Curriculum & Resources
+
+ES2015
+
+[Rithm School Curriculum - ES2015](https://www.rithmschool.com/courses/advanced-javascript-part-2/javascript-es2015-let-const-template-strings)
+
+jQuery
+
+[Rithm School Curriculum - jQuery](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
+
+### Assignment
+
+* [ES2015 Exercises](https://github.com/rithmschool/es2015-exercises)
 
 ## Friday
 
