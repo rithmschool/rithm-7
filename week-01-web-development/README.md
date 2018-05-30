@@ -69,7 +69,7 @@ jQuery
 
 ### Assignment
 
-* [ES2015 Exercises](https://github.com/rithmschool/es2015-exercises)
+* [ES2015 + jQuery Exercises](https://github.com/rithmschool/es2015-exercises)
 
 ## Friday
 
