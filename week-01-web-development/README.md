@@ -50,7 +50,7 @@
 
 * [Learn Bootstrap 4 in 30 minutes by building a landing page website](https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33)
 
-### Homework
+### Assignment
 
 * [CSS and Bootstrap Assignment](https://github.com/rithmschool/css-and-bootstrap-assignment)
 
