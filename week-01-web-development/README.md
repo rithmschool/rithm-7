@@ -71,10 +71,18 @@ jQuery
 
 * [ES2015 + jQuery Exercises](https://github.com/rithmschool/es2015-exercises)
 
+* [Hack or Snooze - jQuery](https://github.com/rithmschool/hack-or-snooze)
+
 ## Friday
 
 ### Topics
 
+jQuery Continued
+
+[Rithm School Curriculum - jQuery](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
+
 ### Curriculum & Resources
 
 ### Assignment
+
+* [Hack or Snooze - jQuery](https://github.com/rithmschool/hack-or-snooze)
