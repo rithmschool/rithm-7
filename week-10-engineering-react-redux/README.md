@@ -2,6 +2,8 @@
 
 Build advanced web applications using React, Redux, and React-Router.
 
+---
+
 ## Monday
 
 ### Topics
@@ -9,6 +11,8 @@ Build advanced web applications using React, Redux, and React-Router.
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Tuesday
 
@@ -18,6 +22,8 @@ Build advanced web applications using React, Redux, and React-Router.
 
 ### Assignment
 
+---
+
 ## Wednesday
 
 ### Topics
@@ -26,6 +32,8 @@ Build advanced web applications using React, Redux, and React-Router.
 
 ### Assignment
 
+---
+
 ## Thursday
 
 ### Topics
@@ -33,6 +41,8 @@ Build advanced web applications using React, Redux, and React-Router.
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Friday
 

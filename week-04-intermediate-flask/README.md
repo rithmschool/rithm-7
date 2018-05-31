@@ -2,6 +2,8 @@
 
 Build and deploy more advanced applications using complex data models.
 
+---
+
 ## Monday
 
 ### Topics
@@ -9,6 +11,8 @@ Build and deploy more advanced applications using complex data models.
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Tuesday
 
@@ -18,6 +22,8 @@ Build and deploy more advanced applications using complex data models.
 
 ### Assignment
 
+---
+
 ## Wednesday
 
 ### Topics
@@ -26,6 +32,8 @@ Build and deploy more advanced applications using complex data models.
 
 ### Assignment
 
+---
+
 ## Thursday
 
 ### Topics
@@ -33,6 +41,8 @@ Build and deploy more advanced applications using complex data models.
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Friday
 

@@ -2,6 +2,8 @@
 
 Develop a deeper understanding of JavaScript and build your first web applications.
 
+---
+
 ## Monday
 
 ### Topics
@@ -9,6 +11,8 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Tuesday
 
@@ -18,6 +22,8 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 
 ### Assignment
 
+---
+
 ## Wednesday
 
 ### Topics
@@ -26,6 +32,8 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 
 ### Assignment
 
+---
+
 ## Thursday
 
 ### Topics
@@ -33,6 +41,8 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Friday
 

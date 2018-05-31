@@ -2,6 +2,8 @@
 
 Learn advanced frontend topics to add routing and state management to your single page web apps.
 
+---
+
 ## Monday
 
 ### Topics
@@ -9,6 +11,8 @@ Learn advanced frontend topics to add routing and state management to your singl
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Tuesday
 
@@ -18,6 +22,8 @@ Learn advanced frontend topics to add routing and state management to your singl
 
 ### Assignment
 
+---
+
 ## Wednesday
 
 ### Topics
@@ -26,6 +32,8 @@ Learn advanced frontend topics to add routing and state management to your singl
 
 ### Assignment
 
+---
+
 ## Thursday
 
 ### Topics
@@ -33,6 +41,8 @@ Learn advanced frontend topics to add routing and state management to your singl
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Friday
 

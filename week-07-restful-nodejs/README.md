@@ -2,6 +2,8 @@
 
 Learn how to build more sophisticated backend APIs in JavaScript.
 
+---
+
 ## Monday
 
 ### Topics
@@ -9,6 +11,8 @@ Learn how to build more sophisticated backend APIs in JavaScript.
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Tuesday
 
@@ -18,6 +22,8 @@ Learn how to build more sophisticated backend APIs in JavaScript.
 
 ### Assignment
 
+---
+
 ## Wednesday
 
 ### Topics
@@ -26,6 +32,8 @@ Learn how to build more sophisticated backend APIs in JavaScript.
 
 ### Assignment
 
+---
+
 ## Thursday
 
 ### Topics
@@ -33,6 +41,8 @@ Learn how to build more sophisticated backend APIs in JavaScript.
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Friday
 

@@ -2,6 +2,8 @@
 
 Introduce concepts and common technologies used to build backend applications.
 
+---
+
 ## Monday
 
 ### Topics
@@ -9,6 +11,8 @@ Introduce concepts and common technologies used to build backend applications.
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Tuesday
 
@@ -18,6 +22,8 @@ Introduce concepts and common technologies used to build backend applications.
 
 ### Assignment
 
+---
+
 ## Wednesday
 
 ### Topics
@@ -26,6 +32,8 @@ Introduce concepts and common technologies used to build backend applications.
 
 ### Assignment
 
+---
+
 ## Thursday
 
 ### Topics
@@ -33,6 +41,8 @@ Introduce concepts and common technologies used to build backend applications.
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Friday
 

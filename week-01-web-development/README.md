@@ -2,6 +2,8 @@
 
 ## ~~Monday Memorial Day Holiday~~
 
+---
+
 ## Tuesday
 
 ### Topics
@@ -17,6 +19,8 @@
 ### Assignment
 
 * [Big O Assignment](https://github.com/rithmschool/big-o-assignment)
+
+---
 
 ## Wednesday
 
@@ -50,6 +54,8 @@ Bootstrap
 
 * [CSS and Bootstrap Assignment](https://github.com/rithmschool/css-and-bootstrap-assignment)
 
+---
+
 ## Thursday
 
 ### Topics
@@ -61,11 +67,21 @@ Bootstrap
 
 ES2015
 
+[Michael's ES2015 Slides](https://slides.com/hueter/es2015/#/) - includes MDN links at the end of each section
+
 [Rithm School Curriculum - ES2015](https://www.rithmschool.com/courses/advanced-javascript-part-2/javascript-es2015-let-const-template-strings)
+
+[es6-features.org](http://es6-features.org/)
+
+[MDN Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 
 jQuery
 
 [Rithm School Curriculum - jQuery](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
+
+[jQuery API Documentation](https://api.jquery.com/)
+
+[jQuery Code & CDN](https://code.jquery.com/)
 
 ### Assignment
 
@@ -73,15 +89,21 @@ jQuery
 
 * [Hack or Snooze - jQuery](https://github.com/rithmschool/hack-or-snooze)
 
+---
+
 ## Friday
 
 ### Topics
 
 jQuery Continued
 
+### Curriculum & Resources
+
 [Rithm School Curriculum - jQuery](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
 
-### Curriculum & Resources
+[jQuery API Documentation](https://api.jquery.com/)
+
+[jQuery Code & CDN](https://code.jquery.com/)
 
 ### Assignment
 

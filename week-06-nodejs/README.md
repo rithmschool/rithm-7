@@ -2,6 +2,8 @@
 
 Learn to write efficient asynchronous JavaScript on the backend and introduce alternatives to SQL databases.
 
+---
+
 ## Monday
 
 ### Topics
@@ -9,6 +11,8 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Tuesday
 
@@ -18,7 +22,11 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 
 ### Assignment
 
+---
+
 ## ~~Wednesday Fourth of July Holiday~~
+
+---
 
 ## Thursday
 
@@ -27,6 +35,8 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Friday
 

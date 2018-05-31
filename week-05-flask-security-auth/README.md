@@ -2,6 +2,8 @@
 
 Understand the basics of web security and build applications involving user authentication / authorization.
 
+---
+
 ## Monday
 
 ### Topics
@@ -9,6 +11,8 @@ Understand the basics of web security and build applications involving user auth
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Tuesday
 
@@ -18,6 +22,8 @@ Understand the basics of web security and build applications involving user auth
 
 ### Assignment
 
+---
+
 ## Wednesday
 
 ### Topics
@@ -26,6 +32,8 @@ Understand the basics of web security and build applications involving user auth
 
 ### Assignment
 
+---
+
 ## Thursday
 
 ### Topics
@@ -33,6 +41,8 @@ Understand the basics of web security and build applications involving user auth
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Friday
 

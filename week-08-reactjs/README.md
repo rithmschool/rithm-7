@@ -2,6 +2,8 @@
 
 Understand common patterns in React, and use React to build simple front-end applications.
 
+---
+
 ## Monday
 
 ### Topics
@@ -9,6 +11,8 @@ Understand common patterns in React, and use React to build simple front-end app
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Tuesday
 
@@ -18,6 +22,8 @@ Understand common patterns in React, and use React to build simple front-end app
 
 ### Assignment
 
+---
+
 ## Wednesday
 
 ### Topics
@@ -26,6 +32,8 @@ Understand common patterns in React, and use React to build simple front-end app
 
 ### Assignment
 
+---
+
 ## Thursday
 
 ### Topics
@@ -33,6 +41,8 @@ Understand common patterns in React, and use React to build simple front-end app
 ### Curriculum & Resources
 
 ### Assignment
+
+---
 
 ## Friday
 
