@@ -8,9 +8,9 @@
 
 ### Topics
 
-* Intro to Rithm School
+* **Intro to Rithm School**
 
-* Computer Science Basics (Algorithm Time and Space Complexity)
+* **Computer Science Basics** (Algorithm Time and Space Complexity)
 
 ### Curriculum & Resources
 
@@ -32,13 +32,13 @@
 
 ### Curriculum & Resources
 
-CSS
+**CSS**
 
 * [Rithm School Curriculum - HTML and CSS Basics](https://www.rithmschool.com/courses/html-css-fundamentals)
 
 * [Rithm School Curriculum - Intermediate CSS](https://www.rithmschool.com/courses/intermediate-css-bootstrap)
 
-Flexbox
+**Flexbox**
 
 * [Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
@@ -46,7 +46,7 @@ Flexbox
 
 * [What the Flexbox?!](https://flexbox.io/) - free video course by Wes Bos
 
-Bootstrap
+**Bootstrap**
 
 * [Learn Bootstrap 4 in 30 minutes by building a landing page website](https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33)
 
@@ -60,28 +60,28 @@ Bootstrap
 
 ### Topics
 
-* ES2015 - Major Additions to JavaScript and New Syntaxes
-* jQuery Introduction
+* **ES2015** - Major Additions to JavaScript and New Syntaxes
+* **jQuery Introduction**
 
 ### Curriculum & Resources
 
-ES2015
+**ES2015**
 
-[Michael's ES2015 Slides](https://slides.com/hueter/es2015/#/) - includes MDN links at the end of each section
+* [Michael's ES2015 Slides](https://slides.com/hueter/es2015/#/) - includes MDN links at the end of each section
 
-[Rithm School Curriculum - ES2015](https://www.rithmschool.com/courses/advanced-javascript-part-2/javascript-es2015-let-const-template-strings)
+* [Rithm School Curriculum - ES2015](https://www.rithmschool.com/courses/advanced-javascript-part-2/javascript-es2015-let-const-template-strings)
 
-[es6-features.org](http://es6-features.org/)
+* [es6-features.org](http://es6-features.org/)
 
-[MDN Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+* [MDN Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 
-jQuery
+**jQuery**
 
-[Rithm School Curriculum - jQuery](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
+* [Rithm School Curriculum - jQuery](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
 
-[jQuery API Documentation](https://api.jquery.com/)
+* [jQuery API Documentation](https://api.jquery.com/)
 
-[jQuery Code & CDN](https://code.jquery.com/)
+* [jQuery Code & CDN](https://code.jquery.com/)
 
 ### Assignment
 
@@ -95,15 +95,15 @@ jQuery
 
 ### Topics
 
-jQuery Continued
+**jQuery Continued**
 
 ### Curriculum & Resources
 
-[Rithm School Curriculum - jQuery](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
+* [Rithm School Curriculum - jQuery](https://www.rithmschool.com/courses/intermediate-javascript-part-2)
 
-[jQuery API Documentation](https://api.jquery.com/)
+* [jQuery API Documentation](https://api.jquery.com/)
 
-[jQuery Code & CDN](https://code.jquery.com/)
+* [jQuery Code & CDN](https://code.jquery.com/)
 
 ### Assignment
 
