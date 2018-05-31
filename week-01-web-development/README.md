@@ -26,9 +26,9 @@
 
 ### Topics
 
-* Intermediate CSS
+* **Intermediate CSS**
 
-* [Bootstrap](https://getbootstrap.com/)
+* **[Bootstrap](https://getbootstrap.com/)**
 
 ### Curriculum & Resources
 
@@ -95,7 +95,7 @@
 
 ### Topics
 
-**jQuery Continued**
+* **jQuery Continued**
 
 ### Curriculum & Resources
 
