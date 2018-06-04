@@ -95,7 +95,7 @@
 
 ### Topics
 
-* **jQuery Continued**
+* Practice patterns of JS app development: applied jQuery/HTML/CSS
 
 ### Curriculum & Resources
 
@@ -106,5 +106,7 @@
 * [jQuery Code & CDN](https://code.jquery.com/)
 
 ### Assignment
+
+* [Connect4](https://github.com/rithmschool/connect4js)
 
 * [Hack or Snooze - jQuery](https://github.com/rithmschool/hack-or-snooze)
