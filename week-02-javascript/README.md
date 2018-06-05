@@ -61,9 +61,16 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 
 ### Topics
 
+- **Hack or Snooze (Sprint Day)**
+
 ### Curriculum & Resources
 
+- [Insomnia REST Client](https://insomnia.rest/) - to make HTTP requests easier with a graphical user interface (GUI)
+- [Hack or Snooze Docs](https://hackorsnoozeapi.docs.apiary.io/#)
+
 ### Assignment
+
+- [Hack or Snooze AJAX](https://github.com/rithmschool/hack-or-snooze/blob/master/readme-ajax.md)
 
 ---
 
@@ -71,9 +78,17 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 
 ### Topics
 
+- **Scope in JavaScript**
+- **Closure in JavaScript**
+
 ### Curriculum & Resources
 
+- [Rithm School Closure Curriculum](https://www.rithmschool.com/courses/intermediate-javascript/javascript-closures)
+- [You Don't Know JS - Scope and Closure (by Kyle Simpson) - free on GitHub](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+
 ### Assignment
+
+- TBD
 
 ---
 
@@ -81,6 +96,14 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 
 ### Topics
 
+- **JavaScript / Coding Assessment**
+- **Intro to Python**
+
 ### Curriculum & Resources
 
+- [Rithm School Python Fundamentals](https://www.rithmschool.com/courses/python-fundamentals-part-1)
+
 ### Assignment
+
+- [Watch Python Course on Udemy](https://www.udemy.com/the-modern-python3-bootcamp/?couponCode=RITHM7) (COUPON CODE ATTACHED TO THIS URL)
+- Work on **Python Fundamentals** repl.it
