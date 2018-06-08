@@ -83,12 +83,25 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 
 ### Curriculum & Resources
 
+Scope and Closure
+
 - [Rithm School Closure Curriculum](https://www.rithmschool.com/courses/intermediate-javascript/javascript-closures)
 - [You Don't Know JS - Scope and Closure (by Kyle Simpson) - free on GitHub](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+- [Michael's Slides on Scope and Closure](https://slides.com/hueter/closure#/)
+- [Michael's Mastering JS Functions Repo w/Closure Exercises](https://github.com/hueter/mastering-js-functions) - check out the `solutions` branch for answers.
+
+JavaScript Compiler Stuff (Optional Geek Out Reading)
+
+- [JIT Compilers](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
+
+JavaScript Module Pattern (Applied Closure)
+
+- [JavaScript Module Pattern In Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+- [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
 
 ### Assignment
 
-- TBD
+- "Finish" Hack-or-Snooze project
 
 ---
 
@@ -96,7 +109,7 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 
 ### Topics
 
-- **JavaScript / Coding Assessment**
+- [**JavaScript Assessment**](https://github.com/rithmschool/javascript-assessment)
 - **Intro to Python**
 
 ### Curriculum & Resources
