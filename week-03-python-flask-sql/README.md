@@ -8,9 +8,28 @@ Introduce concepts and common technologies used to build backend applications.
 
 ### Topics
 
+- **Introduction to Python**
+  - Strings and Byte Strings / Encodings
+  - args and kwargs
+  - function scope and closure
+  - lambda functions
+  - modules and packages
+  - error handling
+  - debugging
+
 ### Curriculum & Resources
 
+- [Rithm School Curriculum - Python Part 1](https://www.rithmschool.com/courses/python-fundamentals-part-1)
+
+- [Rithm School Curriculum - Python Part 2](https://www.rithmschool.com/courses/python-fundamentals-part-2)
+
 ### Assignment
+
+- **Finish Python repl.it**
+- **Continue Python Udemy Course**
+  - functions
+  - decorators
+  - OOP
 
 ---
 
@@ -18,7 +37,13 @@ Introduce concepts and common technologies used to build backend applications.
 
 ### Topics
 
+- **Intermediate Python**
+  - OOP in Python
+  - Decorators
+
 ### Curriculum & Resources
+
+- [Rithm School Curriculum - Python Part 2](https://www.rithmschool.com/courses/python-fundamentals-part-2)
 
 ### Assignment
 
