@@ -12,7 +12,6 @@ Introduce concepts and common technologies used to build backend applications.
   - Strings and Byte Strings / Encodings
   - args and kwargs
   - function scope and closure
-  - lambda functions
   - modules and packages
   - error handling
   - debugging
@@ -20,8 +19,6 @@ Introduce concepts and common technologies used to build backend applications.
 ### Curriculum & Resources
 
 - [Rithm School Curriculum - Python Part 1](https://www.rithmschool.com/courses/python-fundamentals-part-1)
-
-- [Rithm School Curriculum - Python Part 2](https://www.rithmschool.com/courses/python-fundamentals-part-2)
 
 ### Assignment
 
