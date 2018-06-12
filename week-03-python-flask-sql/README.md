@@ -44,6 +44,12 @@ Introduce concepts and common technologies used to build backend applications.
 
 ### Assignment
 
+- **Continue Python Udemy Course**
+  - Object Oriented Programming
+  - Object Oriented Programming Part 2
+  - Decorators
+  - OPTIONAL - Making HTTP Requests with Python, File IO, Web Scraping
+
 ---
 
 ## Wednesday
