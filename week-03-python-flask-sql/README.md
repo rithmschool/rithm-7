@@ -100,4 +100,8 @@ Introduce concepts and common technologies used to build backend applications.
 
 - [Introduction to SQL Exercise](https://github.com/rithmschool/intro_to_sql_exercise)
 
+**Bonus**
+
 - [SQLZoo](https://sqlzoo.net/) (sections 0 through 5)
+
+If you want more CRUD practice in flask, build a CRUD app on teams! (or any other resource of your choosing.) If you get stuck, you can look at the app we built in class [here](https://github.com/mmmaaatttttt/flask_movies). As a bonus, figure out how to add a stylesheet to your app!
