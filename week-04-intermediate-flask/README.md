@@ -60,6 +60,8 @@ Build and deploy more advanced applications using complex data models.
 
 ### Assignment
 
+- [Users Messages: Many-to-Many](https://github.com/rithmschool/users_messages_flask/blob/master/readme-many-to-many.md)
+
 ---
 
 ## Thursday
