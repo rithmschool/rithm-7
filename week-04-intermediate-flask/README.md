@@ -42,7 +42,21 @@ Build and deploy more advanced applications using complex data models.
 
 ### Topics
 
+- **Complex Associations and Data Modeling**
+
+- **M:M Associations with Flask SQLAlchemy**
+
 ### Curriculum & Resources
+
+- [Rithm School Curriculum - Many to Many and Complex Associations](https://www.rithmschool.com/courses/intermediate-flask/many-to-many-and-complex-associations)
+
+- [Matt's Complex Associations And Data Modeling Slides](https://slides.com/mmmaaatttttt/complex-associations/)
+
+- [SQL Data Playground](https://github.com/rithmschool/sql-data)
+
+- [Flask Movies in class app](https://github.com/mmmaaatttttt/flask_movies)
+
+- [ERD Diagrams and Symbols](https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning)
 
 ### Assignment
 
