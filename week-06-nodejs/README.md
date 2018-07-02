@@ -8,7 +8,7 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 
 ### Topics
 
-- **Managing Asynchronous JavaScript**
+- **Managing Asynchronous JavaScript Workshop**
 
 ### Curriculum & Resources
 
@@ -16,7 +16,18 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 
 - [Rithm School Curriculum - Promises](https://www.rithmschool.com/courses/advanced-javascript-part-2/javascript-promises)
 
+- [Rithm School Curriculum - AJAX](https://www.rithmschool.com/courses/intermediate-javascript-part-2/ajax-introduction)
+
+- [MDN Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+- [MDN Async Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+
+- [Great Video About the Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
 ### Assignment
+
+- [In-Class Exercises](https://github.com/rithmschool/async-in-class)
+- [Homework Assignment](https://github.com/rithmschool/async-assignment)
 
 ---
 
@@ -27,6 +38,8 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 - **Intro to Node.js**
 
 ### Curriculum & Resources
+
+- [Rithm School Curriculum](https://www.rithmschool.com/courses/node-express-fundamentals/core-node-modules)
 
 ### Assignment
 
