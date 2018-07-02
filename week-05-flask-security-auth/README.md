@@ -28,9 +28,13 @@ Understand the basics of web security and build applications involving user auth
 
 ### Topics
 
+[Warbler](https://github.com/rithmschool/warbler)
+
 ### Curriculum & Resources
 
 ### Assignment
+
+Work on Warbler
 
 ---
 
@@ -38,9 +42,13 @@ Understand the basics of web security and build applications involving user auth
 
 ### Topics
 
+[Warbler](https://github.com/rithmschool/warbler)
+
 ### Curriculum & Resources
 
 ### Assignment
+
+Work on Warbler
 
 ---
 
@@ -48,6 +56,10 @@ Understand the basics of web security and build applications involving user auth
 
 ### Topics
 
+[Warbler](https://github.com/rithmschool/warbler)
+
 ### Curriculum & Resources
 
 ### Assignment
+
+Finish Warbler

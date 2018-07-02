@@ -45,7 +45,7 @@ Develop a deeper understanding of JavaScript and build your first web applicatio
 
 ### Curriculum & Resources
 
-- [Michael's Promises Slides](https://slides.com/hueter/promises)
+- [Michael's Promises Slides](https://slides.com/hueter/javascript-promises#)
 
 - [Rithm School Curriculum - Promises](https://www.rithmschool.com/courses/advanced-javascript-part-2/javascript-promises)
 
