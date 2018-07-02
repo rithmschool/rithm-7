@@ -20,6 +20,8 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 
 - [MDN Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
+- [Great Async/Await Tutorial](https://javascript.info/async-await)
+
 - [MDN Async Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
 - [Great Video About the Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
