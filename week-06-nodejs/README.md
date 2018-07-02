@@ -27,7 +27,7 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 ### Assignment
 
 - [In-Class Exercises](https://github.com/rithmschool/async-in-class)
-- [Homework Assignment](https://github.com/rithmschool/async-assignment)
+- [Homework Assignment - Async Conceptual Warmup](https://github.com/rithmschool/async-conceptual-warmup)
 
 ---
 
