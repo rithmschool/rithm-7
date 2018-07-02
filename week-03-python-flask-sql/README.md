@@ -44,6 +44,12 @@ Introduce concepts and common technologies used to build backend applications.
 
 ### Assignment
 
+- **Continue Python Udemy Course**
+  - Object Oriented Programming
+  - Object Oriented Programming Part 2
+  - Decorators
+  - OPTIONAL - Making HTTP Requests with Python, File IO, Web Scraping
+
 ---
 
 ## Wednesday
@@ -70,6 +76,32 @@ Introduce concepts and common technologies used to build backend applications.
 
 ### Topics
 
+- **Introduction to Databases**
+
+- **Introduction to SQL**
+
 ### Curriculum & Resources
 
+- [Rithm School Curriculum - Introduction to SQL with Postgres](https://www.rithmschool.com/courses/flask-fundamentals/introduction-to-sql)
+
+- [Rithm School Curriculum - CRUD with SQL](https://www.rithmschool.com/courses/flask-fundamentals/crud-with-sql)
+
+- [Rithm School Curriculum - Operators and Aggregates](https://www.rithmschool.com/courses/flask-fundamentals/operators-and-aggregates)
+
+- [Matt's Intro to Databases Slides](https://slides.com/mmmaaatttttt/an-introduction-to-databases)
+
+- [Matt's Intro to SQL Slides](https://slides.com/mmmaaatttttt/an-introduction-to-sql)
+
+- [Mode Analytics SQL Tutorial](https://community.modeanalytics.com/sql/)
+
 ### Assignment
+
+- [Database Conceptual Exercise](https://github.com/rithmschool/database_conceptual_exercise)
+
+- [Introduction to SQL Exercise](https://github.com/rithmschool/intro_to_sql_exercise)
+
+**Bonus**
+
+- [SQLZoo](https://sqlzoo.net/) (sections 0 through 5)
+
+If you want more CRUD practice in flask, build a CRUD app on teams! (or any other resource of your choosing.) If you get stuck, you can look at the app we built in class [here](https://github.com/mmmaaatttttt/flask_movies). As a bonus, figure out how to add a stylesheet to your app!
