@@ -81,7 +81,7 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 ### Curriculum & Resources
 
 - [Node + Postgres Documentation](https://node-postgres.com/)
-- [Unit 3 - Introduction to Express](https://www.rithmschool.com/courses/node-express-fundamentals)
+- [Unit 3 - Node, Express and Postgres](https://www.rithmschool.com/courses/node-express-fundamentals)
 
 ### Assignment
 
