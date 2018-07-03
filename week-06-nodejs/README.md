@@ -42,8 +42,12 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 ### Curriculum & Resources
 
 - [Rithm School Curriculum](https://www.rithmschool.com/courses/node-express-fundamentals/core-node-modules)
+- [Michael's Node.js Slides](https://slides.com/hueter/intro-to-nodejs/live#/)
+- [Node.js Reference Documentation](https://nodejs.org/api/)
 
 ### Assignment
+
+- [Node.js Assignment](https://github.com/rithmschool/node-js-assignment)
 
 ---
 
