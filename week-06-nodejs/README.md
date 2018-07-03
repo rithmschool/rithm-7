@@ -63,7 +63,12 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 
 ### Curriculum & Resources
 
+[Express JS Documentation](https://expressjs.com/)
+[Unit 2 - Introduction to Express](https://www.rithmschool.com/courses/node-express-fundamentals)
+
 ### Assignment
+
+[Express Intro Exercises](https://github.com/rithmschool/express-intro-exercises)
 
 ---
 
@@ -75,4 +80,9 @@ Learn to write efficient asynchronous JavaScript on the backend and introduce al
 
 ### Curriculum & Resources
 
+[Node + Postgres Documentation](https://node-postgres.com/)
+[Unit 3 - Introduction to Express](https://www.rithmschool.com/courses/node-express-fundamentals)
+
 ### Assignment
+
+[Parts 1, 2, and 3 of the Users/Companies/Jobs App](https://github.com/rithmschool/users-companies-jobs-node-pg)
