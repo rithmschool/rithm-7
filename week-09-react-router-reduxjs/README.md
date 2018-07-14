@@ -12,6 +12,8 @@ Learn advanced frontend topics to add routing and state management to your singl
 
 ### Assignment
 
+- [Testing with React](https://github.com/rithmschool/rithm-react-exercises/blob/master/09_react_testing)
+
 ---
 
 ## Tuesday
@@ -21,6 +23,9 @@ Learn advanced frontend topics to add routing and state management to your singl
 ### Curriculum & Resources
 
 ### Assignment
+
+- [React Router Vending Machine](https://github.com/rithmschool/rithm-react-exercises/tree/master/10_react_router_vending_machine)
+- [React Router Calculator](https://github.com/rithmschool/rithm-react-exercises/tree/master/11_react_router_calculator)
 
 ---
 
@@ -32,6 +37,9 @@ Learn advanced frontend topics to add routing and state management to your singl
 
 ### Assignment
 
+- [React Router Dog Finder](https://github.com/rithmschool/rithm-react-exercises/tree/master/12_react_router_dog_finder)
+- [React Router Color Factory](https://github.com/rithmschool/rithm-react-exercises/tree/master/13_react_router_color_factory)
+
 ---
 
 ## Thursday
@@ -41,6 +49,8 @@ Learn advanced frontend topics to add routing and state management to your singl
 ### Curriculum & Resources
 
 ### Assignment
+
+- [Redux Mood App](https://github.com/rithmschool/rithm-react-exercises/tree/master/14_redux_mood_app)
 
 ---
 
