@@ -8,7 +8,18 @@ Understand common patterns in React, and use React to build simple front-end app
 
 ### Topics
 
+- OOP in JavaScript
+
 ### Curriculum & Resources
+
+- [Rithmschool Curriculum - Keyword 'this'](https://www.rithmschool.com/courses/advanced-javascript/introduction-to-keyword-this)
+- [Rithmschool Curriculum - OOP](https://www.rithmschool.com/courses/advanced-javascript/introduction-to-object-oriented-programming-in-javascript)
+- [Michael's Keyword 'this' Slides](https://slides.com/hueter/javascript-this/)
+- [Michael's JavaScript OOP Slides](https://slides.com/hueter/javascript-oop/)
+
+(Advanced Further Reading)
+
+- [You Don't Know JavaScript Series - this and Object ProtoTypes eBook](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes)
 
 ### Assignment
 
@@ -18,7 +29,12 @@ Understand common patterns in React, and use React to build simple front-end app
 
 ### Topics
 
+- Intro to React and JSX
+- Intro to ES2015 Modules
+
 ### Curriculum & Resources
+
+- [Rithm Curriculum - Introduction to React](https://www.rithmschool.com/courses/react-fundamentals/introduction-to-react)
 
 ### Assignment
 
@@ -31,7 +47,14 @@ Understand common patterns in React, and use React to build simple front-end app
 
 ### Topics
 
+- React Props and State
+
 ### Curriculum & Resources
+
+- [Rithm React Curriculum - Props](https://www.rithmschool.com/courses/react-fundamentals/props)
+- [Rithm React Curriculum - State](https://www.rithmschool.com/courses/react-fundamentals/state)
+- [React Docs on Components and Props](https://reactjs.org/docs/components-and-props.html)
+- [Michael's Slides on Props and State](https://slides.com/hueter/react-part-one)
 
 ### Assignment
 
@@ -44,7 +67,12 @@ Understand common patterns in React, and use React to build simple front-end app
 
 ### Topics
 
+- React Events, Forms, and Controlled Components
+
 ### Curriculum & Resources
+
+- [Rithm Curriculum on React Events and Forms](https://www.rithmschool.com/courses/react-fundamentals/react-events)
+- [React Docs on Forms](https://reactjs.org/docs/forms.html)
 
 ### Assignment
 
@@ -57,7 +85,12 @@ Understand common patterns in React, and use React to build simple front-end app
 
 ### Topics
 
+- React Lifecycle Methods
+
 ### Curriculum & Resources
+
+- [Rithm Curriculum on Component Lifecycle](https://www.rithmschool.com/courses/react-fundamentals/component-life-cycle)
+- [React Docs on State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
 ### Assignment
 
