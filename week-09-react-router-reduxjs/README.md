@@ -53,6 +53,7 @@ Learn advanced frontend topics to tests, routing, and state management to your s
 
 ### Curriculum & Resources
 
+- [Michael's React Router Intro](https://github.com/hueter/react-router-intro)
 - [Rithm School Curriculum - React Router Introduction](https://www.rithmschool.com/courses/intermediate-react/react-router)
 - [React Router Docs](https://reacttraining.com/react-router/web/guides/philosophy)
 
