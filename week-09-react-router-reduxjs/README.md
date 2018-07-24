@@ -8,7 +8,7 @@ Learn advanced frontend topics to tests, routing, and state management to your s
 
 ### Warm-Up
 
-- [Testing Exercise!](https://github.com/rithmschool/testing-warmup).
+- [Testing Exercise!](https://github.com/rithmschool/testing-warmup)
 
 ### Topics
 
@@ -49,12 +49,17 @@ Learn advanced frontend topics to tests, routing, and state management to your s
 
 ### Topics
 
+- Intro to React Router
+
 ### Curriculum & Resources
+
+- [Rithm School Curriculum - React Router Introduction](https://www.rithmschool.com/courses/intermediate-react/react-router)
+- [React Router Docs](https://reacttraining.com/react-router/web/guides/philosophy)
 
 ### Assignment
 
-- [React Router Vending Machine](https://github.com/rithmschool/rithm-react-exercises/tree/master/10_react_router_vending_machine)
-- [React Router Calculator](https://github.com/rithmschool/rithm-react-exercises/tree/master/11_react_router_calculator)
+- [React Router Vending Machine](https://github.com/rithmschool/rithm-react-exercises/tree/master/07_react_router_vending_machine)
+- [React Router Calculator](https://github.com/rithmschool/rithm-react-exercises/tree/master/08_react_router_calculator)
 
 ---
 
@@ -62,12 +67,16 @@ Learn advanced frontend topics to tests, routing, and state management to your s
 
 ### Topics
 
+- React Router Continued
+
 ### Curriculum & Resources
+
+- [Rithm School Curriculum - React Router Continued](https://www.rithmschool.com/courses/intermediate-react/react-router-continued)
 
 ### Assignment
 
-- [React Router Dog Finder](https://github.com/rithmschool/rithm-react-exercises/tree/master/12_react_router_dog_finder)
-- [React Router Color Factory](https://github.com/rithmschool/rithm-react-exercises/tree/master/13_react_router_color_factory)
+- [React Router Dog Finder](https://github.com/rithmschool/rithm-react-exercises/tree/master/09_react_router_dog_finder)
+- [React Router Color Factory](https://github.com/rithmschool/rithm-react-exercises/tree/master/10_react_router_color_factory)
 
 ---
 
@@ -75,7 +84,13 @@ Learn advanced frontend topics to tests, routing, and state management to your s
 
 ### Topics
 
+- Intro to Redux.js
+
 ### Curriculum & Resources
+
+- [Rithm School Curriculum - Intro to Redux](https://www.rithmschool.com/courses/intermediate-react/introduction-to-redux)
+- [Redux.js.org](https://redux.js.org/) (excellent website, great docs)
+- [Free Video Tutorial Series - Getting Started with Redux by Dan Abramov (creator)](https://egghead.io/series/getting-started-with-redux)
 
 ### Assignment
 
@@ -87,6 +102,12 @@ Learn advanced frontend topics to tests, routing, and state management to your s
 
 ### Topics
 
+- React with Redux
+
 ### Curriculum & Resources
+
+- [Rithm School Curriculum - React and Redux](https://www.rithmschool.com/courses/intermediate-react/react-and-redux)
+- [Redux.js.org](https://redux.js.org/) (excellent website, great docs)
+- [Second Free Video Tutorial Series - Building React Applications with Idiomatic Redux by Dan Abramov (creator)](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ### Assignment
