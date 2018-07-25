@@ -73,6 +73,9 @@ Learn advanced frontend topics to tests, routing, and state management to your s
 ### Curriculum & Resources
 
 - [Rithm School Curriculum - React Router Continued](https://www.rithmschool.com/courses/intermediate-react/react-router-continued)
+- [Protected Routes & Auth with React Router](https://tylermcginnis.com/react-router-protected-routes-authentication/)
+- [Redirects / Programmatic Navigation with React Router](https://tylermcginnis.com/react-router-programmatically-navigate/)
+- [(Advanced) React Router - render vs component](https://stackoverflow.com/a/48152635)
 
 ### Assignment
 
